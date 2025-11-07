@@ -1,0 +1,23 @@
+{
+  "name": "golden-theme",
+  "displayName": "golden-theme",
+  "author": "bichi",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "golden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/golden-color-theme.json"
+      }
+    ]
+  }
+}
