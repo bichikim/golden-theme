@@ -3,9 +3,9 @@
   "displayName": "golden-theme",
   "author": "bichi",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": "^1.99.3"
   },
   "publisher": "bichi",
   "icon": "icon.png",
