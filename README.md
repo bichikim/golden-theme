@@ -1,16 +1,8 @@
-# bichi-theme README
+🎨 Golden Theme
 
-## Working with Markdown
+Golden Theme was inspired by the background aesthetics of Golden from K-pop Demon Hunters.
+This theme is designed to minimize eye strain by eliminating blue tones and instead emphasizing a warm tri-color palette of red, yellow, and green.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Special care was taken to highlight small operator text, ensuring that users can read comfortably without squinting or fatigue, even during long coding sessions.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Theme Preview](preview.png)
