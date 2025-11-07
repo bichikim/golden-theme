@@ -1,4 +1,4 @@
-🎨 Golden Theme
+# 🎨 Golden Theme
 
 Golden Theme was inspired by the background aesthetics of Golden from K-pop Demon Hunters.
 This theme is designed to minimize eye strain by eliminating blue tones and instead emphasizing a warm tri-color palette of red, yellow, and green.
